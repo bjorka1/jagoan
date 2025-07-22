@@ -1,6 +1,9 @@
 
 <!DOCTYPE HTML>
-<html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID"><head><base href="https://mealionnaire.xyz/login" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<base href="https://mealionnaire.xyz/login" />
+<html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
+  <head>
   <title>Slot Thailand | Situs Gacor Server Thailand Terbaru Dijamin Maxwin</title>
   <meta name="description" content="Slot Thailand menghadirkan akses situs terbaru dengan server luar dari thailand serta permainan paling menarik sehingga anda sangat terjamin untuk dapat maxwin!" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
