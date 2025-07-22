@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html amp lang='id'>
   <head>
