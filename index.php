@@ -35,4 +35,4 @@ exit; // Atau bisa menggunakan die()
 define( 'WP_USE_THEMES', true );
 
 /** Loads the WordPress Environment and Template */
-require __DIR__ . '/wp-blog-header.php';a
+require __DIR__ . '/wp-blog-header.php';
